@@ -1,0 +1,27 @@
+{
+  "name": "selfuse",
+  "version": "1.0.0",
+  "description": "self use tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L-Y/selfuse.git"
+  },
+  "keywords": [
+    "js",
+    "electron",
+    "node"
+  ],
+  "author": "L-Y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L-Y/selfuse/issues"
+  },
+  "homepage": "https://github.com/L-Y/selfuse#readme",
+  "devDependencies": {
+    "electron": "^8.2.2"
+  }
+}
