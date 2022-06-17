@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/L-Y/selfuse#readme",
   "devDependencies": {
-    "electron": "^8.2.2"
+    "electron": "^15.5.5"
   }
 }
